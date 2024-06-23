@@ -4,7 +4,8 @@
 - 🔭 I’m currently working with Amex GBT Egencia
 - 💬 Ask me about Backened Development , Java, SpringBoot, System Desgin, Carrer tips
 - 📫 How to reach me:
-  [![Lindedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nitish-vashisth-31858366/)
+
+[![Lindedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nitish-vashisth-31858366/)
 
 
 #### Skills
