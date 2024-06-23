@@ -11,7 +11,6 @@
 #### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,wasm)](https://skillicons.dev)
-[Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 
 
 <!--
