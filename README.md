@@ -1,6 +1,6 @@
 ## Hi there 👋 It's Nitish Vashisth
 
-### I'm Backend Developer
+### I'm a Backend Developer
 - 🔭 I’m currently working with Amex GBT Egencia
 - 💬 Ask me about Backened Development , Java, SpringBoot, System Desgin, Carrer tips
 - 📫 How to reach me:
