@@ -1,10 +1,15 @@
 ## Hi there 👋 It's Nitish Vashisth
 
 ### I'm Backend Developer
+- 🔭 I’m currently working with Amex GBT Egencia
+- 💬 Ask me about Backened Development , Java, SpringBoot, System Desgin, Carrer tips
+- 📫 How to reach me: [![Lindedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nitish-vashisth-31858366/)
+
 
 #### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,html,css,wasm)](https://skillicons.dev)
+[Java](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
 
 
 <!--
