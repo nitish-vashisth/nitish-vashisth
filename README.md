@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 It's Nitish Vashisth
+
+### I'm Backend Developer
+
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **nitish-vashisth/nitish-vashisth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
