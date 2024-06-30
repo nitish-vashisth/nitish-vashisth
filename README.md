@@ -7,6 +7,8 @@
 
 [![Lindedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nitish-vashisth-31858366/)
 
+### Blogs
+[PrepKaro](https://prepkaro.com/)
 
 #### Skills
 
